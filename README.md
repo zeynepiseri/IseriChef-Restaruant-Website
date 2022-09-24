@@ -1,1 +1,5 @@
-# IseriChef-Restaruant-Website
+![home](https://user-images.githubusercontent.com/110569853/192098932-13dd2ee6-f744-4715-bc26-de6f92d5fd59.png)
+![footer](https://user-images.githubusercontent.com/110569853/192098939-ae9a5607-7708-46f9-b63b-cbf9787c947f.png)
+![menu](https://user-images.githubusercontent.com/110569853/192098942-71225ff4-e042-4047-8924-c8b7b57558ba.png)
+![book table](https://user-images.githubusercontent.com/110569853/192098949-c62c9d58-0e1d-4d8d-b1fa-9293d9063058.png)
+![proposal](https://user-images.githubusercontent.com/110569853/192098951-1005b927-23df-47ff-8497-c71bb0ea8df8.png)
